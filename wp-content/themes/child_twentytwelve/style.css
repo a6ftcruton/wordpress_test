@@ -1,0 +1,16 @@
+/*
+
+Theme Name: child_twentytwelve
+Description: Child theme for Sandbox (local server)
+Author: James Sutton
+Version: 0.0.1
+Template: twentytwelve
+
+*/
+
+@import url('../twentytwelve/style.css');
+
+.site-title a, .site-header h2 a {
+	font-size: 200% !important;
+	color: blue;
+}
